@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://github.com/MEHAJIBSHA"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
-<a href="RAVANA-SL/Termux-whatsappbot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/RAVANA-SL/Termux-whatsappbot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 
